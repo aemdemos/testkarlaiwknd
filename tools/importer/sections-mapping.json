@@ -1,0 +1,56 @@
+{
+  "url": "https://wknd.site/us/en.html",
+  "sanitizedPath": "/us/en",
+  "autoDetect": false,
+  "mapping": [
+    {
+      "id": "1",
+      "path": "/nav",
+      "sections": [
+        {
+          "id": "1-1",
+          "blocks": [],
+          "settings": {}
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "path": "/us/en",
+      "sections": [
+        {
+          "id": "2-1",
+          "blocks": [
+            {
+              "id": "box-id--1689548637",
+              "x": 0,
+              "y": 2184,
+              "width": 1581,
+              "height": 680,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]",
+              "layout": {
+                "numCols": 1,
+                "numRows": 1
+              },
+              "color": "rgba(148, 0, 211, 0.3)",
+              "mapping": "hero",
+              "customBlockName": "aihero"
+            }
+          ],
+          "settings": {}
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "path": "/footer",
+      "sections": [
+        {
+          "id": "3-1",
+          "blocks": [],
+          "settings": {}
+        }
+      ]
+    }
+  ]
+}
